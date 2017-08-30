@@ -1,2 +1,2 @@
 # COE
-Name: <Samuel> <Buske>
+Name: Samuel Buske
